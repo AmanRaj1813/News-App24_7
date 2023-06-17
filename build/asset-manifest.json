@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.32e68f9f.css",
+    "main.js": "/react-gh-pages/static/js/main.27884486.js",
+    "static/js/787.66a4299e.chunk.js": "/react-gh-pages/static/js/787.66a4299e.chunk.js",
+    "static/media/null_logo.png": "/react-gh-pages/static/media/null_logo.aa295508d8e15267aa97.png",
+    "static/media/loading.gif": "/react-gh-pages/static/media/loading.99707d54e562c7ed5ebc.gif",
+    "static/media/Sun.svg": "/react-gh-pages/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/Moon.svg": "/react-gh-pages/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "main.32e68f9f.css.map": "/react-gh-pages/static/css/main.32e68f9f.css.map",
+    "main.27884486.js.map": "/react-gh-pages/static/js/main.27884486.js.map",
+    "787.66a4299e.chunk.js.map": "/react-gh-pages/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e68f9f.css",
+    "static/js/main.27884486.js"
+  ]
+}
