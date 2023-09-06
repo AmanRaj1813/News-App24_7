@@ -31,6 +31,66 @@
   background-color: var(--body_background);
   color: var(--body_color);
 }
+.menu a{
+  display: inline-block;
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.menu a:hover{
+  background: #eee;
+  color: #000;
+  transition-duration: 0.5s;
+}
+
+.mobile-menu-bar{
+  display: inline-block;
+  width: 100%;
+  padding: 20px;
+  background: #576574;
+  text-align: right;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 20px;
+  display: none;
+}
+
+
+
+@media (max-width:768px){
+  .mobile-menu-bar{
+    display: block;
+  }
+
+  .menu a:hover{
+  background: #eee;
+  color: #000;
+  transition-duration: 0.5s;
+}
+
+  .mobile-menu-bar i{
+    cursor: pointer;
+  }
+
+  .menu{
+    width: 100%;
+    display: none;
+  }
+
+  .menu a{
+    display: block;
+    text-align: center;
+  }
+
+  .active{
+    display: block;
+  }
+}
+      
+
+
 
 @keyframes App-logo-spin {
   from {
